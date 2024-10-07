@@ -139,7 +139,7 @@
         <mxCell id="4bEfCtakOpmso9pgQ73f-7" value="Cloud Computing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94.75" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4bEfCtakOpmso9pgQ73f-8" value="Round Robin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bEfCtakOpmso9pgQ73f-8" value="Dynamic Weighted Round Robin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285.25" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4bEfCtakOpmso9pgQ73f-9" value="Least Connections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -148,16 +148,16 @@
         <mxCell id="4bEfCtakOpmso9pgQ73f-10" value="Throttled" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14.75" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4bEfCtakOpmso9pgQ73f-11" value="Equally Spread Current Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bEfCtakOpmso9pgQ73f-11" value="Equally Spread Current Execution(ESCE)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164.75" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4bEfCtakOpmso9pgQ73f-12" value="Clustered Systems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394.75" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4bEfCtakOpmso9pgQ73f-13" value="Randomised" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bEfCtakOpmso9pgQ73f-13" value="Ant Colony Optimisation(ACO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.75" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4bEfCtakOpmso9pgQ73f-14" value="Min Min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bEfCtakOpmso9pgQ73f-14" value="Max Min with Dynamic Load Consideration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464.75" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4bEfCtakOpmso9pgQ73f-15" value="Virtualisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
